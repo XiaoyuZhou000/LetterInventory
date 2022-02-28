@@ -1,0 +1,29 @@
+Assesement 1: LetterInventory Reflection
+
+1) What did you learn from working on this 
+assignment?
+I can use this() to call the current method. Also, method can be
+called in other method is a new way let me to approach my purpose.
+
+2) What did you struggle most with on this 
+assignment? How did you work to overcome 
+that struggle (even if you weren't able to)?
+How to appropriately use ASCII index for character struggle me at
+first. I solved this by using hints in the specification and the 
+example code from other coding website.
+
+3) How will you use what you learned from 
+this assignment to improve your process or 
+approach on future assignments?
+It is important to have a structure and purpose before doing actual coding.
+I should have this good habit before every coding project.
+
+4) Was any part of the specification or 
+requirements unclear? If so, what part(s), 
+and how could it have been made clearer?
+What are the methods we have to include in the assessment, such as helper methods?
+
+5) About how many hours did you spend working 
+on this assignment? (Estimates are fine, but 
+try to get close)
+3 hours for coding. 1 hour for commenting.
